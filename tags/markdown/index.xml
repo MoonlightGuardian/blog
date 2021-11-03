@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown on 风范网-一个用于记录生活、分享软件、分享技术教程和房屋装修避坑平台，我们的宗旨是乐于分享，收获快乐！</title>
+    <link>/tags/markdown/</link>
+    <description>Recent content in Markdown on 风范网-一个用于记录生活、分享软件、分享技术教程和房屋装修避坑平台，我们的宗旨是乐于分享，收获快乐！</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2021-{year} 不会吃鱼的猫. All Rights Reserved.</copyright>
+    <lastBuildDate>Fri, 29 Oct 2021 20:34:48 +0800</lastBuildDate><atom:link href="/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MarkdownPad2的安装、配置、优化</title>
+      <link>/posts/markdownpad-2/</link>
+      <pubDate>Fri, 29 Oct 2021 20:34:48 +0800</pubDate>
+      
+      <guid>/posts/markdownpad-2/</guid>
+      <description>Markdown 介绍 Markdown 是一种轻量级标记语言，它允许人们使用易读易写的纯文本格式编写文档，然后转换成格式丰富的HTML页面。 —— 维基百科 Markdown提供</description>
+    </item>
+    
+  </channel>
+</rss>
