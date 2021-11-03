@@ -8,7 +8,7 @@ git push -u origin main
 git pull --rebase origin master
 git pull origin main  --allow-unrelated-histories
 
-cd -
+cd E:\blog\fengfan.win
 
 hugo --destination ./docs --buildDrafts --cleanDestinationDir 
 cd docs
