@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>脚本 on 风范网-一个用于记录生活、分享软件、分享技术教程和房屋装修避坑平台，我们的宗旨是乐于分享，收获快乐！</title>
+    <link>/tags/%E8%84%9A%E6%9C%AC/</link>
+    <description>Recent content in 脚本 on 风范网-一个用于记录生活、分享软件、分享技术教程和房屋装修避坑平台，我们的宗旨是乐于分享，收获快乐！</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2021-{year} 不会吃鱼的猫. All Rights Reserved.</copyright>
+    <lastBuildDate>Mon, 01 Nov 2021 22:34:48 +0800</lastBuildDate><atom:link href="/tags/%E8%84%9A%E6%9C%AC/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ShareX图床配置，大厂CDN，大众点评客服</title>
+      <link>/posts/sharex-image-bed-configuration-dianping-customer-service/</link>
+      <pubDate>Mon, 01 Nov 2021 22:34:48 +0800</pubDate>
+      
+      <guid>/posts/sharex-image-bed-configuration-dianping-customer-service/</guid>
+      <description>ShareX是一个开源免费的截图软件，软件小巧精悍，整个安装包不到5MB。与其它的截图不同，ShareX可以真正实现截图自动化，独有的任务设</description>
+    </item>
+    
+    <item>
+      <title>如何愉快的使用Via浏览器</title>
+      <link>/posts/how-to-use-via-browser-happily/</link>
+      <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/how-to-use-via-browser-happily/</guid>
+      <description>软件介绍 Via，简洁轻快浏览器。堪称最小巧最强安卓极简浏览器，纯净无广告、界面简约、功能强大、麻雀虽小，五脏俱全！该手机迷你浏览器采用的we</description>
+    </item>
+    
+  </channel>
+</rss>
