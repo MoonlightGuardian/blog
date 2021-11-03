@@ -2,6 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+<<<<<<< HEAD
     <loc>/series/</loc>
     <lastmod>2021-11-03T14:11:24+08:00</lastmod>
   </url><url>
@@ -45,6 +46,30 @@
     <lastmod>2021-11-01T22:34:48+08:00</lastmod>
   </url><url>
     <loc>/posts/sharex-image-bed-configuration-dianping-customer-service/</loc>
+=======
+    <loc>/tags/sh/</loc>
+    <lastmod>2021-11-01T22:34:48+08:00</lastmod>
+  </url><url>
+    <loc>/posts/sharex-image-bed-configuration-dianping-customer-service/</loc>
+    <lastmod>2021-11-01T22:34:48+08:00</lastmod>
+  </url><url>
+    <loc>/series/</loc>
+    <lastmod>2021-11-01T22:34:48+08:00</lastmod>
+  </url><url>
+    <loc>/tags/%E5%88%86%E4%BA%AB/</loc>
+    <lastmod>2021-11-01T22:34:48+08:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2021-11-01T22:34:48+08:00</lastmod>
+  </url><url>
+    <loc>/series/%E5%B7%A5%E5%85%B7/</loc>
+    <lastmod>2021-11-01T22:34:48+08:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2021-11-01T22:34:48+08:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+>>>>>>> ccb0226e3c898f198f682745025c7d8723759bda
     <lastmod>2021-11-01T22:34:48+08:00</lastmod>
   </url><url>
     <loc>/tags/%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6/</loc>
@@ -56,6 +81,12 @@
     <loc>/tags/%E8%84%9A%E6%9C%AC/</loc>
     <lastmod>2021-11-01T22:34:48+08:00</lastmod>
   </url><url>
+<<<<<<< HEAD
+=======
+    <loc>/</loc>
+    <lastmod>2021-11-01T22:34:48+08:00</lastmod>
+  </url><url>
+>>>>>>> ccb0226e3c898f198f682745025c7d8723759bda
     <loc>/tags/markdown/</loc>
     <lastmod>2021-10-29T20:34:48+08:00</lastmod>
   </url><url>

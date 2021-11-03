@@ -7,6 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2021-{year} 不会吃鱼的猫. All Rights Reserved.</copyright>
+<<<<<<< HEAD
     <lastBuildDate>Wed, 03 Nov 2021 14:11:24 +0800</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>分享</title>
@@ -50,15 +51,32 @@
       <pubDate>Wed, 03 Nov 2021 14:11:24 +0800</pubDate>
       
       <guid>/tags/%E7%94%B5%E5%BD%B1/</guid>
-      <description></description>
-    </item>
-    
+=======
+    <lastBuildDate>Mon, 01 Nov 2021 22:34:48 +0800</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>sh</title>
       <link>/tags/sh/</link>
       <pubDate>Mon, 01 Nov 2021 22:34:48 +0800</pubDate>
       
       <guid>/tags/sh/</guid>
+>>>>>>> ccb0226e3c898f198f682745025c7d8723759bda
+      <description></description>
+    </item>
+    
+    <item>
+<<<<<<< HEAD
+      <title>sh</title>
+      <link>/tags/sh/</link>
+      <pubDate>Mon, 01 Nov 2021 22:34:48 +0800</pubDate>
+      
+      <guid>/tags/sh/</guid>
+=======
+      <title>分享</title>
+      <link>/tags/%E5%88%86%E4%BA%AB/</link>
+      <pubDate>Mon, 01 Nov 2021 22:34:48 +0800</pubDate>
+      
+      <guid>/tags/%E5%88%86%E4%BA%AB/</guid>
+>>>>>>> ccb0226e3c898f198f682745025c7d8723759bda
       <description></description>
     </item>
     

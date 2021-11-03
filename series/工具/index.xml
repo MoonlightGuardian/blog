@@ -7,6 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2021-{year} 不会吃鱼的猫. All Rights Reserved.</copyright>
+<<<<<<< HEAD
     <lastBuildDate>Wed, 03 Nov 2021 14:11:24 +0800</lastBuildDate><atom:link href="/series/%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>免费的在线影视网站汇总</title>
@@ -17,6 +18,9 @@
       <description>免费最新在线影视站，仅用于测试用途。日常请使用 正版视频 软件，支持正版人人有责。 影视大全 网站名称 简介 地址 显示图片则网站正常 白瓢者联盟 收集一百个</description>
     </item>
     
+=======
+    <lastBuildDate>Mon, 01 Nov 2021 22:34:48 +0800</lastBuildDate><atom:link href="/series/%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> ccb0226e3c898f198f682745025c7d8723759bda
     <item>
       <title>ShareX图床配置，大厂CDN，大众点评客服</title>
       <link>/posts/sharex-image-bed-configuration-dianping-customer-service/</link>
