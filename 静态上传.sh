@@ -6,5 +6,5 @@ git remote add origin https://github.com/MoonlightGuardian/blog.git
 git push -u origin main
 # 下边是拉取解决报错
 git pull --rebase origin master
-git pull origin main
+git pull origin main --allow-unrelated-histories
 
