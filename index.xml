@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>风范网-一个用于记录生活、分享软件、分享技术教程和房屋装修避坑平台，我们的宗旨是乐于分享，收获快乐！</title>
+    <link>/</link>
+    <description>Recent content on 风范网-一个用于记录生活、分享软件、分享技术教程和房屋装修避坑平台，我们的宗旨是乐于分享，收获快乐！</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2021-{year} 不会吃鱼的猫. All Rights Reserved.</copyright>
+    <lastBuildDate>Wed, 03 Nov 2021 14:11:24 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>免费的在线影视网站汇总</title>
+      <link>/posts/free-online-movies/</link>
+      <pubDate>Wed, 03 Nov 2021 14:11:24 +0800</pubDate>
+      
+      <guid>/posts/free-online-movies/</guid>
+      <description>免费最新在线影视站，仅用于测试用途。日常请使用 正版视频 软件，支持正版人人有责。 影视大全 网站名称 简介 地址 显示图片则网站正常 白瓢者联盟 收集一百个</description>
+    </item>
+    
+    <item>
+      <title>ShareX图床配置，大厂CDN，大众点评客服</title>
+      <link>/posts/sharex-image-bed-configuration-dianping-customer-service/</link>
+      <pubDate>Mon, 01 Nov 2021 22:34:48 +0800</pubDate>
+      
+      <guid>/posts/sharex-image-bed-configuration-dianping-customer-service/</guid>
+      <description>ShareX是一个开源免费的截图软件，软件小巧精悍，整个安装包不到5MB。与其它的截图不同，ShareX可以真正实现截图自动化，独有的任务设</description>
+    </item>
+    
+    <item>
+      <title>MarkdownPad2的安装、配置、优化</title>
+      <link>/posts/markdownpad-2/</link>
+      <pubDate>Fri, 29 Oct 2021 20:34:48 +0800</pubDate>
+      
+      <guid>/posts/markdownpad-2/</guid>
+      <description>Markdown 介绍 Markdown 是一种轻量级标记语言，它允许人们使用易读易写的纯文本格式编写文档，然后转换成格式丰富的HTML页面。 —— 维基百科 Markdown提供</description>
+    </item>
+    
+    <item>
+      <title>如何愉快的使用Via浏览器</title>
+      <link>/posts/how-to-use-via-browser-happily/</link>
+      <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/how-to-use-via-browser-happily/</guid>
+      <description>软件介绍 Via，简洁轻快浏览器。堪称最小巧最强安卓极简浏览器，纯净无广告、界面简约、功能强大、麻雀虽小，五脏俱全！该手机迷你浏览器采用的we</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Hugo makes use of a variety of open source projects including:
+ https://github.</description>
+    </item>
+    
+  </channel>
+</rss>
