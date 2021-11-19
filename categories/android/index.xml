@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2021-{year} 不会吃鱼的猫. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 28 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/android/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Nov 2021 21:24:57 +0800</lastBuildDate><atom:link href="/categories/android/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>如何优雅的使用灭霸（Thanox）</title>
+      <link>/posts/how-to-use-thanox-gracefully/</link>
+      <pubDate>Fri, 19 Nov 2021 21:24:57 +0800</pubDate>
+      
+      <guid>/posts/how-to-use-thanox-gracefully/</guid>
+      <description>Thanox权限神器是一款功能非常强大且实用的手机应用管理软件，还能够帮助你进行手机后台应用进行记录，让你可以更好进行后台的管理，它是基于x</description>
+    </item>
+    
     <item>
       <title>如何愉快的使用Via浏览器</title>
       <link>/posts/how-to-use-via-browser-happily/</link>

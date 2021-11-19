@@ -2,25 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/categories/android/</loc>
+    <lastmod>2021-11-19T21:24:57+08:00</lastmod>
+  </url><url>
+    <loc>/tags/thanox/</loc>
+    <lastmod>2021-11-19T21:24:57+08:00</lastmod>
+  </url><url>
+    <loc>/series/</loc>
+    <lastmod>2021-11-19T21:24:57+08:00</lastmod>
+  </url><url>
+    <loc>/tags/%E5%88%86%E4%BA%AB/</loc>
+    <lastmod>2021-11-19T21:24:57+08:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2021-11-19T21:24:57+08:00</lastmod>
+  </url><url>
+    <loc>/posts/how-to-use-thanox-gracefully/</loc>
+    <lastmod>2021-11-19T21:24:57+08:00</lastmod>
+  </url><url>
+    <loc>/series/%E5%B7%A5%E5%85%B7/</loc>
+    <lastmod>2021-11-19T21:24:57+08:00</lastmod>
+  </url><url>
+    <loc>/tags/%E6%83%85%E6%99%AF%E6%A8%A1%E5%BC%8F/</loc>
+    <lastmod>2021-11-19T21:24:57+08:00</lastmod>
+  </url><url>
+    <loc>/tags/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2021-11-19T21:24:57+08:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2021-11-19T21:24:57+08:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2021-11-19T21:24:57+08:00</lastmod>
+  </url><url>
+    <loc>/tags/%E7%81%AD%E9%9C%B8/</loc>
+    <lastmod>2021-11-19T21:24:57+08:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2021-11-19T21:24:57+08:00</lastmod>
+  </url><url>
     <loc>/tags/android/</loc>
     <lastmod>2021-11-08T21:33:28+08:00</lastmod>
   </url><url>
     <loc>/posts/android-customized-app/</loc>
-    <lastmod>2021-11-08T21:33:28+08:00</lastmod>
-  </url><url>
-    <loc>/series/</loc>
-    <lastmod>2021-11-08T21:33:28+08:00</lastmod>
-  </url><url>
-    <loc>/tags/%E5%88%86%E4%BA%AB/</loc>
-    <lastmod>2021-11-08T21:33:28+08:00</lastmod>
-  </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2021-11-08T21:33:28+08:00</lastmod>
-  </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2021-11-08T21:33:28+08:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2021-11-08T21:33:28+08:00</lastmod>
   </url><url>
     <loc>/tags/%E7%83%AD%E7%82%B9%E8%B5%84%E8%AE%AF/</loc>
@@ -32,16 +56,10 @@
     <loc>/categories/%E7%83%AD%E7%82%B9%E8%B5%84%E8%AE%AF/</loc>
     <lastmod>2021-11-08T21:33:28+08:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2021-11-08T21:33:28+08:00</lastmod>
-  </url><url>
     <loc>/posts/online-sharing/</loc>
     <lastmod>2021-11-07T14:58:12+08:00</lastmod>
   </url><url>
     <loc>/tags/%E5%9C%A8%E7%BA%BF%E5%88%86%E4%BA%AB/</loc>
-    <lastmod>2021-11-07T14:58:12+08:00</lastmod>
-  </url><url>
-    <loc>/series/%E5%B7%A5%E5%85%B7/</loc>
     <lastmod>2021-11-07T14:58:12+08:00</lastmod>
   </url><url>
     <loc>/categories/%E7%B2%BE%E5%93%81%E5%88%86%E4%BA%AB/</loc>
@@ -90,9 +108,6 @@
     <lastmod>2021-10-29T20:34:48+08:00</lastmod>
   </url><url>
     <loc>/series/android/</loc>
-    <lastmod>2021-10-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/android/</loc>
     <lastmod>2021-10-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/via/</loc>
