@@ -7,7 +7,79 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2021-{year} 不会吃鱼的猫. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 19 Nov 2021 21:24:57 +0800</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Nov 2021 20:35:25 +0800</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Android</title>
+      <link>/tags/android/</link>
+      <pubDate>Sat, 27 Nov 2021 20:35:25 +0800</pubDate>
+      
+      <guid>/tags/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>测速</title>
+      <link>/tags/%E6%B5%8B%E9%80%9F/</link>
+      <pubDate>Sat, 27 Nov 2021 20:35:25 +0800</pubDate>
+      
+      <guid>/tags/%E6%B5%8B%E9%80%9F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>网络</title>
+      <link>/tags/%E7%BD%91%E7%BB%9C/</link>
+      <pubDate>Sat, 27 Nov 2021 20:35:25 +0800</pubDate>
+      
+      <guid>/tags/%E7%BD%91%E7%BB%9C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>网速</title>
+      <link>/tags/%E7%BD%91%E9%80%9F/</link>
+      <pubDate>Sat, 27 Nov 2021 20:35:25 +0800</pubDate>
+      
+      <guid>/tags/%E7%BD%91%E9%80%9F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WeChat</title>
+      <link>/tags/wechat/</link>
+      <pubDate>Sat, 27 Nov 2021 20:23:44 +0800</pubDate>
+      
+      <guid>/tags/wechat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>微信</title>
+      <link>/tags/%E5%BE%AE%E4%BF%A1/</link>
+      <pubDate>Sat, 27 Nov 2021 20:23:44 +0800</pubDate>
+      
+      <guid>/tags/%E5%BE%AE%E4%BF%A1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>微信好友</title>
+      <link>/tags/%E5%BE%AE%E4%BF%A1%E5%A5%BD%E5%8F%8B/</link>
+      <pubDate>Sat, 27 Nov 2021 20:23:44 +0800</pubDate>
+      
+      <guid>/tags/%E5%BE%AE%E4%BF%A1%E5%A5%BD%E5%8F%8B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>清理</title>
+      <link>/tags/%E6%B8%85%E7%90%86/</link>
+      <pubDate>Sat, 27 Nov 2021 20:23:44 +0800</pubDate>
+      
+      <guid>/tags/%E6%B8%85%E7%90%86/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Thanox</title>
       <link>/tags/thanox/</link>
@@ -50,15 +122,6 @@
       <pubDate>Fri, 19 Nov 2021 21:24:57 +0800</pubDate>
       
       <guid>/tags/%E7%81%AD%E9%9C%B8/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Android</title>
-      <link>/tags/android/</link>
-      <pubDate>Mon, 08 Nov 2021 21:33:28 +0800</pubDate>
-      
-      <guid>/tags/android/</guid>
       <description></description>
     </item>
     
