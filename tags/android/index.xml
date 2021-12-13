@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2021-{year} 不会吃鱼的猫. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 27 Nov 2021 20:35:25 +0800</lastBuildDate><atom:link href="/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Dec 2021 21:22:13 +0800</lastBuildDate><atom:link href="/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pure天气_V8.7.0_纯净版_一个纯粹的天气应用</title>
+      <link>/posts/pure-weather/</link>
+      <pubDate>Mon, 13 Dec 2021 21:22:13 +0800</pubDate>
+      
+      <guid>/posts/pure-weather/</guid>
+      <description>Pure天气是一个纯粹的天气应用，界面简洁优雅，不毒瘤，只有天气。地区覆盖全国市县级，支持预警、小时预报、桌面插件、通知栏、多城市、天气分享</description>
+    </item>
+    
     <item>
       <title>华为花瓣测速App v3.6.0.300 免费纯净无广告</title>
       <link>/posts/petal-velocity/</link>
