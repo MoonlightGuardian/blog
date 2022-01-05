@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>工具 on 风范网-一个用于记录生活、分享软件、分享技术教程和房屋装修避坑平台，我们的宗旨是乐于分享，收获快乐！</title>
+    <link>/tags/%E5%B7%A5%E5%85%B7/</link>
+    <description>Recent content in 工具 on 风范网-一个用于记录生活、分享软件、分享技术教程和房屋装修避坑平台，我们的宗旨是乐于分享，收获快乐！</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2021-{year} 不会吃鱼的猫. All Rights Reserved.</copyright>
+    <lastBuildDate>Tue, 04 Jan 2022 21:50:48 +0800</lastBuildDate><atom:link href="/tags/%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SonicePro(搜视Pro)v21.12.23去广告优化版</title>
+      <link>/posts/sonicepro/</link>
+      <pubDate>Tue, 04 Jan 2022 21:50:48 +0800</pubDate>
+      
+      <guid>/posts/sonicepro/</guid>
+      <description>SonicePro是安卓一款非常不错的观影应用，有全网影视，电视直播，还有速看轮播。清晰的界面，首页有“剧集” – “电影” – “动漫” – “综艺”</description>
+    </item>
+    
+  </channel>
+</rss>
