@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WeChat on 风范网-一个用于记录生活、分享软件、分享技术教程和房屋装修避坑平台，我们的宗旨是乐于分享，收获快乐！</title>
+    <link>/tags/wechat/</link>
+    <description>Recent content in WeChat on 风范网-一个用于记录生活、分享软件、分享技术教程和房屋装修避坑平台，我们的宗旨是乐于分享，收获快乐！</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2021-{year} 不会吃鱼的猫. All Rights Reserved.</copyright>
+    <lastBuildDate>Sat, 27 Nov 2021 20:23:44 +0800</lastBuildDate><atom:link href="/tags/wechat/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>李跳跳-真实好友v2.0 无障碍检测微信好友状态</title>
+      <link>/posts/li-tiaotiao-real-friend/</link>
+      <pubDate>Sat, 27 Nov 2021 20:23:44 +0800</pubDate>
+      
+      <guid>/posts/li-tiaotiao-real-friend/</guid>
+      <description>李跳跳-真实好友是一款无障碍检测微信好友状态的应用，无需ROOT权限，只需要启用无障碍权限，插件会通过脚本自动执行检测，提高检测结果报告，从</description>
+    </item>
+    
+  </channel>
+</rss>

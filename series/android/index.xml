@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Android on 风范网-一个用于记录生活、分享软件、分享技术教程和房屋装修避坑平台，我们的宗旨是乐于分享，收获快乐！</title>
+    <link>/series/android/</link>
+    <description>Recent content in Android on 风范网-一个用于记录生活、分享软件、分享技术教程和房屋装修避坑平台，我们的宗旨是乐于分享，收获快乐！</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2021-{year} 不会吃鱼的猫. All Rights Reserved.</copyright>
+    <lastBuildDate>Fri, 07 Jan 2022 21:42:57 +0800</lastBuildDate><atom:link href="/series/android/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>优质网页导航</title>
+      <link>/posts/navigation/</link>
+      <pubDate>Fri, 07 Jan 2022 21:42:57 +0800</pubDate>
+      
+      <guid>/posts/navigation/</guid>
+      <description>##导航 不可思议导航 不求人导航 万花筒 优社导航 创意导航 电影导航 萌导航 资源帝导航 ##阅读 今日热榜 果汁排行榜 微信热文 简书 知乎 电子杂志 报刊杂志 ##技</description>
+    </item>
+    
+    <item>
+      <title>如何优雅的使用灭霸（Thanox）</title>
+      <link>/posts/how-to-use-thanox-gracefully/</link>
+      <pubDate>Fri, 19 Nov 2021 21:24:57 +0800</pubDate>
+      
+      <guid>/posts/how-to-use-thanox-gracefully/</guid>
+      <description>Thanox权限神器是一款功能非常强大且实用的手机应用管理软件，还能够帮助你进行手机后台应用进行记录，让你可以更好进行后台的管理，它是基于x</description>
+    </item>
+    
+    <item>
+      <title>如何愉快的使用Via浏览器</title>
+      <link>/posts/how-to-use-via-browser-happily/</link>
+      <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/how-to-use-via-browser-happily/</guid>
+      <description>软件介绍 Via，简洁轻快浏览器。堪称最小巧最强安卓极简浏览器，纯净无广告、界面简约、功能强大、麻雀虽小，五脏俱全！该手机迷你浏览器采用的we</description>
+    </item>
+    
+  </channel>
+</rss>
